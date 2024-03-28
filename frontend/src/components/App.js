@@ -8,10 +8,10 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">HNGi9 DevOps Stage2 Task</h1>
+          <h1 className="App-title">Aymogul Django App</h1>
         </header>
         <p className="App-intro">
-          This task was submitted by <b>Mayowa</b>
+          This is a subset task on DevOps completed by <b>Aymogul</b>
         </p>
       </div>
     );
